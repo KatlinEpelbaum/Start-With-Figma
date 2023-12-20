@@ -1,0 +1,191 @@
+.header{
+    justify-content: space-around;
+    flex-direction: row;
+    display: flex;
+    text-align: row;
+    align-items: center;
+}
+body{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.first-page {
+    background-image: url(page1.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding-bottom: 250PX;
+}
+.text1 {
+    text-align: row;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    align-items: center;
+    height: 15;
+    padding: 16px;
+    width: 50px;
+    font-weight: 100;
+
+}
+.header-p {
+    color: white;
+    padding: 10px;
+    padding-top: 30px;  
+    gap: 15px;
+    width: 63px;
+    height: 48px;
+    margin: 0;
+
+}
+.figma-img{
+    margin-bottom: 15px;
+}
+.logos{
+    justify-content: space-evenly;
+    padding-top: 30px;
+    padding-left: 150px;
+    margin-bottom: 40px;
+    height: 30px;
+    padding-right: 20px;
+}
+.figma {
+    height: 50px;
+}
+.start-with{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    padding-top: 30px;
+    margin-top: 100px;
+
+}
+.start-with2{
+    padding-top: 5px;
+}
+.h1page1 {
+    text-align: center;
+    color: white;
+    font-weight: bolder;
+    font-size: 50px;
+    line-height: 5px; 
+    gap: 0px;
+}
+.h2page1{
+    text-align: center;
+    color: white;
+    font-weight: 100;
+    font-size: 20px;
+    line-height: 10px;
+    gap: 0px;
+}
+.button1{
+    background-color:dodgerblue;
+    color: white;
+    border: none;
+    font-size: 14px;
+    font-weight: 100;
+    border-radius: 20px;
+    padding: 10px 30px;
+    
+}
+.button1div {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    padding: 15px 650px;
+    padding-top: 40px;
+}
+.page2 {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    padding-top: 30px;
+}
+.features {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+.h2page2 {
+    color: darkslategrey;
+    font-weight: 100;
+    font-size: 20px;
+    line-height: 10px;
+    gap: 0px;
+    margin-bottom: 0px;
+    
+    
+}
+.h2-2page2{
+    color: darkslategrey;
+    font-weight: 100;
+    font-size: 20px;
+    line-height: 10px;
+    gap: 0px;
+    margin-bottom: 0px;
+    padding-bottom: 70px; 
+      
+}
+.h1page2 {
+    font-weight: 100;
+}
+.feature{
+    padding: 20px
+}
+.featuresh3 {
+    line-height: 5px;
+    gap: 0px;
+    margin-bottom: 0px; 
+}
+.featuresp {
+    font-weight: 100;
+    line-height: 10px;
+    gap: 0px;
+    margin-bottom: 0px;   
+}
+.featuresp1{
+    font-weight: 100;
+    line-height: 10px;
+    gap: 0px;
+    margin-bottom: 0px; 
+    padding-top: 15px;  
+}
+.page3{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    text-align: center;
+    padding-top: 80px; 
+}
+.h1page3{
+    font-weight: 100;
+    line-height: 10px;
+    gap: 0px;
+    margin-bottom: 0px;
+    text-align: left;
+}
+.h2page3 {
+    color: darkslategrey;
+    font-weight: 100;
+    font-size: 20px;
+    line-height: 10px;
+    gap: 0px;
+    margin-bottom: 0px;
+    text-align: left;
+}
+.h2page3-2 {
+    color: darkslategrey;
+    font-weight: 100;
+    font-size: 20px;
+    line-height: 10px;
+    gap: 0px;
+    margin-bottom: 0px;
+    text-align: left;
+    padding-top: 20px;
+}
